@@ -3,7 +3,7 @@
  
 &#xa0;
 
-<a href="https://rayportfolio.netlify.app">Demo</a>
+<a href="https://rayloria.github.io/PacMen-Exercise-MIT/">Demo</a>
 
 </div>
 
