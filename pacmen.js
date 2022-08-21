@@ -50,7 +50,6 @@ function makePac() {
     position,
     velocity,
     newimg,
-    direction,
   };
 }
 

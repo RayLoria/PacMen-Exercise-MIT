@@ -19,7 +19,7 @@ body {
   
   h1 {
     color: #fcfcfc;
-    font: 2em sans-serif;  
+    font: 3em sans-serif;  
     text-shadow:   
     0 0 5px #0505d4, 
     0 0 0px #0505d4, 
@@ -28,19 +28,17 @@ body {
   }
   
   a {
-    background-color: #000000; 
     color: #fcfcfc;
     padding: 18px 32px;  
     text-align: center;
-    /*text-decoration: solid;*/
     font-family: emulogic;   
     display: inline-block;
-    font-size: 1em;
-    cursor: pointer;
+    font-size: 2em;
     text-shadow:   
     0 0 5px #0505d4,   
     0 0 0px #0505d4, 
     0 0 5px #0505d4;  
+    text-decoration: none;
   }
   
   #game {
@@ -53,11 +51,14 @@ body {
     display: grid;
     grid-template-columns: repeat(10, 1fr);
     grid-template-rows: repeat(10, 1fr);
+    border:15px solid transparent;
+    border-image:linear-gradient(to
+    right,#103ec4, #8ca2e2) 1;
   }
+  
   
   #buttons {
       display: flex;
       justify-content: center;
       height: 70px;
-      text-decoration: none;
   }

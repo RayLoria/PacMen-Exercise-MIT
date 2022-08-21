@@ -10,13 +10,13 @@
 <h1 align="center">PacMen Exercise</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/RayLoria/PacMen-Exercise?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/RayLoria/PacMen-Exercise-MIT?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/RayLoria/PacMen-Exercise?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/RayLoria/PacMen-Exercise-MIT?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/RayLoria/PacMen-Exercise?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/RayLoria/PacMen-Exercise-MIT?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/RayLoria/PacMen-Exercise?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/RayLoria/PacMen-Exercise-MIT?color=56BEB8">
 </p>
 
 <!-- Status -->
@@ -34,7 +34,7 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="https://github.com/RayLoria" target="_blank">Ray Loria</a>
 </p>
 
 <br>
