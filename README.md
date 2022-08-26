@@ -41,7 +41,7 @@
 
 ## :dart: About
 
-Javascript project is simulating one feature of the Pacman game moving one side of the screen to the other side with collision detection.
+Javascript project is simulating one feature of the Pacman game moving one side of the screen to the other side with collision detection in the future version, I going to add improvements for mobile responsive view and some bugs went the ball collision with the down of the window.
 
 ## :sparkles: Features
 
